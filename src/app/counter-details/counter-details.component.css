@@ -1,0 +1,16 @@
+.wrapper{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    display: inline-block;
+    background-color: lightblue;
+    height: 60px;
+    width: 135px;
+    padding: 50px white;
+    margin: 70px;
+    font-size: 20pt;
+    border: 20px;
+    border-color: black;
+
+}

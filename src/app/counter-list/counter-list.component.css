@@ -1,0 +1,25 @@
+.btn-create {
+    background-color: mediumseagreen;
+    border-color: mediumseagreen;
+    border: 4px black;
+  }
+  
+  .btn {
+    cursor: pointer;
+    display: flex;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+  }
+
+
+
+.label{
+  padding: 20px green;
+}

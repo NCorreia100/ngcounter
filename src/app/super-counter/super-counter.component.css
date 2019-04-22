@@ -1,0 +1,16 @@
+.superWrapper{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    display: inline-block;
+    background-color: rgb(116, 116, 197);
+   
+    height: 80px;
+    width: 200px;
+    padding: 80px white;
+    margin: 90px;
+    font-size: 20pt;
+
+}
+

@@ -1,0 +1,9 @@
+<div class="app">
+  <button class="btn btn-create" (click)="createCounter()">click me</button>
+  <p class="label" >Counter List :{{ counters.length}}</p>
+  <p class="label" >SuperCounter List :{{ supercounters.length}}</p>
+  <counter *ngFor="let c of counters"  [counter]="c"> </counter>
+  <supercounter *ngFor="let s of supercounters"  [supercounter]="s"> </supercounter>
+
+ 
+</div>
